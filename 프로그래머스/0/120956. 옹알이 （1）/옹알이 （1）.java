@@ -9,10 +9,7 @@ class Solution {
             }
             if(babbling[i].trim().length() == 0) {
                 answer++;
-        }
-        
-        
-            
+            } 
         }
         return answer;
     }
